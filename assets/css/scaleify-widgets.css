@@ -1,10 +1,10 @@
 /* Scaleify widgets: cookie consent, chatbot, instant quote — styled to LSI Cool palette */
 
 :root {
-  --sc-blue: #2371ff;
-  --sc-blue-dark: #1557d8;
-  --sc-orange: #ff5e14;
-  --sc-orange-dark: #e04d08;
+  --sc-blue: #0B2545;
+  --sc-blue-dark: #061834;
+  --sc-orange: #00b4d8;
+  --sc-orange-dark: #0096b7;
   --sc-dark: #0B1A2E;
   --sc-paper: #ffffff;
   --sc-ink: #1a2330;
@@ -112,7 +112,7 @@
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  box-shadow: -4px 4px 20px rgba(255, 94, 20, 0.35);
+  box-shadow: -4px 4px 20px rgba(0, 180, 216, 0.35);
   transition: all 0.3s ease;
   border: none;
   display: flex;
